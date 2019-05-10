@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="5" height="2" tilewidth="256" tileheight="256" infinite="0" backgroundcolor="#000000" nextlayerid="3" nextobjectid="22">
+ <tileset firstgid="1" name="greenhillzone" tilewidth="256" tileheight="256" spacing="4" margin="4" tilecount="80" columns="5">
+  <image source="greenhillzone.png" trans="b5a5d5" width="1310" height="4400"/>
+ </tileset>
+ <layer id="1" name="Слой тайлов 1" width="5" height="2">
+  <data encoding="base64" compression="zlib">
+   eJyzYmBgsELDFkDMhITZgBgAKSgBZw==
+  </data>
+ </layer>
+ <objectgroup id="2" name="Слой объектов 1">
+  <object id="3" x="-0.666667" y="456" width="255.333" height="23.3333"/>
+  <object id="4" x="286" y="459.333"/>
+  <object id="6" x="259" y="386" width="250" height="17"/>
+  <object id="8" x="513" y="383" width="253" height="25"/>
+  <object id="9" x="767" y="382" width="253" height="26"/>
+  <object id="10" x="256" y="397" width="13" height="77"/>
+  <object id="11" x="457" y="556"/>
+  <object id="12" x="1024.5" y="326.5" width="10" height="71"/>
+  <object id="17" x="1026.5" y="321" width="58.5" height="18"/>
+  <object id="18" x="1088.5" y="272" width="12.5" height="63.5"/>
+  <object id="19" x="1088" y="271" width="162.667" height="16.3333"/>
+  <object id="20" x="1241.25" y="269.5" width="42.875" height="18.125"/>
+  <object id="21" x="1293.5" y="290.125"/>
+ </objectgroup>
+</map>

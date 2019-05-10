@@ -1,0 +1,884 @@
+16:49:04,939  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+16:49:08,199  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+16:49:08,206  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+16:49:10,235  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+16:49:10,918  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+16:49:11,209  INFO LWJGL Application SaveScreen:selectPreviousSlot:107 - Выбор предыдущего слота
+16:49:11,494  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+16:49:11,640  INFO LWJGL Application SaveScreen:selectPreviousSlot:107 - Выбор предыдущего слота
+16:49:11,739  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+16:49:12,347  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+16:49:18,494  INFO SaveThread SaveThread:run:47 - Сохранение игры
+16:29:44,508  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+16:30:10,530  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+16:30:10,638  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+16:30:13,987  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+16:30:14,592  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+16:30:19,182  INFO LWJGL Application SaveScreen:selectPreviousSlot:107 - Выбор предыдущего слота
+16:30:21,299  INFO LWJGL Application SaveScreen:selectPreviousSlot:107 - Выбор предыдущего слота
+16:30:21,795  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+16:30:23,273  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+16:30:25,289  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+16:30:45,445  INFO SaveThread SaveThread:run:47 - Сохранение игры
+16:32:01,713  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+16:32:02,819  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+16:32:02,822  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+16:32:03,596  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+22:33:55,152  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+22:33:59,372  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+22:33:59,433  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+10:33:57,568  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+10:34:03,819  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+10:34:03,888  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+10:34:05,521  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+10:34:05,796  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+10:34:07,384  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+20:08:43,317  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+20:08:45,837  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+20:08:46,005  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+20:08:47,853  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+20:08:48,047  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+20:08:48,540  INFO LWJGL Application SaveScreen:selectPreviousSlot:107 - Выбор предыдущего слота
+20:08:48,994  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+20:08:49,664  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+20:08:50,239  INFO LWJGL Application SaveScreen:selectPreviousSlot:107 - Выбор предыдущего слота
+20:08:50,656  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+20:08:51,260  INFO LWJGL Application SaveScreen:selectPreviousSlot:107 - Выбор предыдущего слота
+20:08:51,456  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+20:08:51,549  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+20:08:52,085  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+20:09:07,019  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+20:09:07,077  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+20:09:07,082  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+20:09:07,085  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+20:09:14,231  INFO LWJGL Application SaveScreen:selectNextSlot:98 - Выбор следующего слота
+20:09:14,751  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+20:09:46,177  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:47,766  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:47,964  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:48,097  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:48,230  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:48,348  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:48,496  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:48,613  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:48,747  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:48,915  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:49,113  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:49,266  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:50,097  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:50,280  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:50,464  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:50,615  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:50,798  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:50,946  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:51,081  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:51,230  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:51,364  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:51,496  INFO SaveThread SaveThread:run:47 - Сохранение игры
+20:09:51,631  INFO SaveThread SaveThread:run:47 - Сохранение игры
+02:22:37,734  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:22:41,337  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:22:41,339  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:22:42,048  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:42,525  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+02:22:43,320  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+02:22:43,503  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:43,666  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:43,870  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:44,058  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:44,282  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:44,501  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:44,638  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:22:44,657  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:44,696  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:22:44,804  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:44,880  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:45,029  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:45,091  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:45,354  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:45,525  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:45,646  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:45,750  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:22:45,787  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:45,922  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:46,073  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:46,169  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:46,303  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:46,357  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:46,446  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:46,534  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:46,743  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:51,439  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:51,901  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:52,123  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:52,415  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:53,686  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:54,084  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:54,197  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:54,309  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:54,364  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:54,624  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:54,799  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:55,075  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:55,871  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:56,228  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:56,514  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:56,765  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:57,194  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:57,394  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:22:57,400  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:22:57,422  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:22:57,774  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:57,872  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:22:58,009  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:58,085  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:58,408  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+02:22:58,603  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+02:39:18,468  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+02:39:26,864  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+02:42:09,875  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+02:47:35,041  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+02:52:27,027  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+02:53:22,799  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:05:23,353  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:19:06,237  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:24:27,916  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:26:28,647  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:26:54,096  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:27:38,475  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:28:00,682  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:31:26,420  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:32:16,744  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:33:02,204  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:34:16,232  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:34:19,235  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+03:34:19,237  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:34:21,953  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+03:34:23,000  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:34:23,037  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:34:23,318  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:34:29,636  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:44:27,887  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:44:29,057  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+03:44:29,066  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:44:29,607  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:29,827  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:30,899  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:44:31,001  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:44:31,264  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:31,436  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:31,569  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:31,702  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:31,813  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:31,990  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:32,553  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:44:33,078  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+03:44:34,072  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:44:34,135  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:44:34,456  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+03:44:34,488  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:44:35,004  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:44:35,232  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:44:35,378  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+03:44:40,078  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:40,665  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:40,827  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:41,031  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:41,152  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:41,331  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:42,138  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:44:42,140  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:44:42,143  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:44:42,650  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:42,999  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:43,002  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:44:43,106  INFO SaveThread SaveThread:run:47 - Сохранение игры
+03:45:05,170  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:45:07,042  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+03:45:07,044  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:45:07,796  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+03:45:09,683  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:45:09,720  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:45:10,309  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:45:11,198  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+03:45:18,206  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:45:18,210  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:45:18,216  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:45:38,136  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+03:45:38,149  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:45:38,154  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:45:38,155  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:46:32,087  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:46:40,098  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+03:46:40,160  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:46:41,293  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+03:46:43,013  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:46:43,058  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:46:43,514  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:48:05,836  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:48:20,224  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+03:48:20,250  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:48:20,256  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:48:20,259  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:48:45,029  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:55:13,059  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:55:15,007  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+03:55:15,009  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:55:16,256  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+03:55:17,769  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:55:17,796  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:55:18,255  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:55:19,334  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:19,515  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:19,728  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:19,922  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:20,075  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:20,217  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:20,550  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:20,784  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:21,050  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:21,182  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:21,271  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:21,402  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:21,442  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:21,521  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:21,628  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:21,986  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:22,262  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:22,484  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:22,642  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:22,905  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:23,088  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:23,366  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:23,455  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:23,698  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:24,171  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:24,320  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:24,786  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:25,138  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:25,341  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:25,470  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:25,647  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:26,120  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:26,288  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:26,499  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:26,902  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:27,116  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:27,320  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:27,414  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:27,758  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:28,204  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+03:55:28,217  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:55:28,224  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:55:28,230  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+03:55:31,088  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:31,153  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:31,252  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:31,341  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:31,404  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:31,553  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:31,635  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:31,752  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:31,804  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:31,869  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:31,981  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:32,038  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:32,118  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:32,185  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:32,269  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:32,352  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:32,427  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:55:32,486  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+03:55:32,519  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+03:57:54,074  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+03:59:22,232  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:00:05,181  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:02:01,286  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:05:03,932  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:06:11,329  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:06:21,923  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:06:22,497  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+04:06:22,502  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+04:06:23,975  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+04:06:26,564  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:06:26,596  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:06:27,075  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:06:27,204  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+04:06:35,313  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:06:35,317  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:06:35,320  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:13:44,821  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:15:12,242  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:20:30,988  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:21:46,785  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:22:31,708  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+04:22:36,436  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+04:22:36,438  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+04:22:36,987  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:37,142  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:37,409  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:37,558  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:37,966  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:38,134  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:38,273  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:38,464  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:38,595  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:38,889  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:39,091  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:39,322  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:39,543  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:39,687  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+04:22:40,330  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:40,577  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:40,586  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:22:40,615  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:22:40,860  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:22:40,886  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:41,009  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+04:22:41,218  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:41,386  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+04:22:41,677  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:41,836  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+04:22:51,517  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:22:51,524  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:22:51,535  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+04:38:34,420  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:02:21,694  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:02:22,242  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:02:22,249  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:02:26,434  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:02:31,665  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:02:40,201  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:02:40,918  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:02:40,923  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:02:42,730  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:03:04,334  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:03:09,311  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:05:03,715  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:05:04,517  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:05:04,519  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:05:05,499  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:05:08,936  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:05:18,463  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:06:34,458  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:06:35,089  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:06:35,091  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:06:39,281  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:06:47,124  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:06:52,535  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:07:24,494  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:07:25,109  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:07:25,112  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:07:26,162  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:07:26,219  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:07:26,738  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:07:28,602  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:07:32,931  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:08:40,073  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:10:27,972  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:10:28,536  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:10:28,538  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:10:29,055  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:10:29,771  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:10:34,760  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:12:02,785  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:12:03,386  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:12:03,390  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:12:04,374  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:12:05,111  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:12:07,177  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:12:12,450  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:13:22,442  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:14:38,717  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:15:37,382  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:15:38,180  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:15:38,182  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:15:40,830  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:15:42,584  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:15:48,241  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:16:30,402  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:16:31,124  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:16:31,126  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:16:31,937  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:16:32,753  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:16:35,161  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:16:37,186  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:17:19,536  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:17:20,283  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:17:20,286  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:17:20,883  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:17:21,111  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:17:26,581  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:17:51,914  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:17:57,161  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:17:57,163  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:17:58,818  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:17:59,282  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:18:01,490  INFO SaveThread SaveThread:run:49 - Сохранение игры
+05:18:24,545  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:18:25,340  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:18:25,342  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:18:25,852  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:18:25,974  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:18:26,123  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:18:26,548  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:18:31,958  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:19:21,140  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:19:44,586  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:19:45,117  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:19:45,119  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:19:45,551  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:19:46,206  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:19:48,260  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:19:49,249  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:19:50,682  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:19:53,631  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:19:58,963  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:20:03,432  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:20:38,492  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:20:39,048  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:20:39,050  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:20:40,159  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:20:40,320  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:20:46,000  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:21:00,540  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:21:01,189  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:21:01,192  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:21:47,331  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:21:48,143  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:21:48,146  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:21:48,927  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:21:49,307  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:21:54,001  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:25:01,389  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:25:01,905  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:25:01,908  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:25:02,891  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:25:03,201  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:25:05,619  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:25:07,979  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:25:57,764  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:25:59,162  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:25:59,163  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:26:00,072  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:26:02,360  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:29:21,039  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:29:21,766  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:29:21,769  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:29:22,552  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:29:25,113  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:29:28,966  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:32:17,510  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:32:18,466  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:32:18,470  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:32:19,866  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:32:22,506  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:32:31,367  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:32:31,914  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:32:31,916  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:32:33,624  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:32:39,712  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:32:41,427  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:32:44,327  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:32:45,311  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:32:50,956  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:32:51,578  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:32:51,580  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:32:53,584  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:32:53,760  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:32:53,904  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:32:54,196  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:32:59,027  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:33:06,259  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:33:06,793  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:33:06,797  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:33:09,157  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:33:09,477  INFO LWJGL Application SaveScreen:selectNextSlot:99 - Выбор следующего слота
+05:33:11,182  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+05:33:15,496  INFO SaveThread SaveThread:run:50 - Сохранение игры
+05:33:22,498  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:33:23,274  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:33:23,276  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:35:49,630  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:35:50,550  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:35:50,553  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:38:01,613  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:38:02,398  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:38:02,416  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+05:39:03,907  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+05:39:04,440  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+05:39:04,444  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+15:24:42,258  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+16:54:03,371  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+00:56:48,074  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+00:56:50,031  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+00:56:50,149  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+00:56:50,955  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+00:56:51,230  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+00:56:51,750  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+00:56:52,362  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+00:56:54,382  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+00:56:54,408  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+00:56:54,721  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+00:58:06,628  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+00:58:07,573  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+00:58:07,575  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+00:58:08,339  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+00:58:08,507  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+00:58:08,753  INFO LWJGL Application SaveScreen:selectNextSlot:97 - Выбор следующего слота
+00:58:09,051  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+00:58:09,227  INFO LWJGL Application SaveScreen:selectPreviousSlot:106 - Выбор предыдущего слота
+00:59:46,050  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+00:59:47,466  INFO LWJGL Application StartScreen:handleInput:62 - Переход к экрану сохранения
+00:59:47,475  INFO LWJGL Application SaveScreen:<init>:48 - Запуск экрана сохранения
+00:59:48,745  INFO ReportHTMl ReportThread:run:39 - Сохранение отчета в HTML
+00:59:49,986  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+00:59:50,020  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+00:59:50,634  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+01:00:11,056  INFO ReportPDF ReportThread:run:34 - Сохранение отчета в PDF
+01:00:11,060  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+01:00:11,066  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+01:00:11,070  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+01:04:16,188  INFO LWJGL Application StartScreen:<init>:32 - Запуск начального экрана
+01:22:39,690  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+01:22:43,342  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+01:22:43,346  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+01:22:44,312  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+01:22:44,766  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+01:22:45,045  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+01:30:26,789  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+01:30:27,494  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+01:30:27,497  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+01:30:28,415  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+01:30:28,685  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+01:30:45,080  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+01:30:54,371  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+01:30:54,373  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+01:30:56,091  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+01:30:56,486  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+01:44:08,763  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+01:44:09,335  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+01:44:09,341  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+01:44:10,489  INFO LWJGL Application PlayScreen:<init>:67 - Запуск игры
+01:48:25,973  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+01:48:26,497  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+01:48:26,500  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+01:48:27,231  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+01:48:27,679  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+01:48:27,826  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+01:48:28,359  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+01:48:28,565  INFO LWJGL Application PlayScreen:<init>:68 - Запуск игры
+01:49:37,540  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+01:49:38,143  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+01:49:38,145  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+01:49:38,795  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+01:49:39,194  INFO LWJGL Application PlayScreen:<init>:68 - Запуск игры
+02:00:19,800  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:00:20,422  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:00:20,428  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:00:21,015  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:00:21,167  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:00:21,479  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:00:21,798  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:00:21,983  INFO LWJGL Application PlayScreen:<init>:68 - Запуск игры
+02:02:34,861  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:02:35,969  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:02:35,972  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:02:36,914  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:02:37,005  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:02:37,207  INFO LWJGL Application PlayScreen:<init>:68 - Запуск игры
+02:04:42,871  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:04:55,102  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:04:55,105  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:04:55,930  INFO LWJGL Application PlayScreen:<init>:68 - Запуск игры
+02:08:02,556  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:08:03,433  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:08:03,436  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:08:04,035  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:08:04,472  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:04,768  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:08:05,012  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:05,200  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:05,354  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:08:05,667  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:08:05,883  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:06,028  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:06,188  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:06,304  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:06,439  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:06,562  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:06,735  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:08:06,862  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:08:06,996  INFO ReportHTMl ReportThread:run:37 - Сохранение отчета в HTML
+02:08:07,151  INFO ReportPDF ReportThread:run:33 - Сохранение отчета в PDF
+02:08:07,274  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:07,781  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:08:08,017  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:08:08,043  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:08:08,080  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:08:08,220  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:08:08,423  WARN ReportHTMl ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:08:10,072  INFO SaveThread SaveThread:run:47 - Сохранение игры
+02:08:12,830  INFO SaveThread SaveThread:run:47 - Сохранение игры
+02:08:16,325  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:08:16,329  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:08:16,333  WARN ReportPDF ComponentsEnvironment:findBundles:126 - Found two components for namespace http://jasperreports.sourceforge.net/htmlcomponent
+02:30:13,134  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:30:14,513  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:30:14,515  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:30:15,649  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:30:15,837  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:30:48,801  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:30:49,387  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:30:49,392  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:30:51,012  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:30:51,391  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:30:55,034  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:31:30,606  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:31:31,638  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:31:31,642  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:31:32,857  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:31:33,085  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:31:55,708  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:31:56,340  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:31:56,343  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:31:57,342  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:31:57,682  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:32:12,670  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:32:13,963  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:32:13,967  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:32:15,286  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:32:15,608  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:32:57,233  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:32:59,135  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:32:59,138  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:33:00,611  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:33:00,887  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:33:38,629  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:33:39,385  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:33:39,388  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:33:40,157  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:33:40,362  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:33:41,212  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:33:41,695  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:33:41,929  INFO LWJGL Application SaveScreen:selectPreviousSlot:103 - Выбор предыдущего слота
+02:33:42,069  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:34:24,297  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:34:24,743  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:34:24,746  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:34:25,554  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:34:25,910  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:35:41,020  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:35:42,215  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:35:42,218  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:35:44,075  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:35:44,423  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:36:30,558  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:36:31,622  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:36:31,625  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:36:33,183  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:36:33,373  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:40:39,877  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:40:40,736  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:40:40,739  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:40:41,495  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:40:41,917  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:42:59,586  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:43:00,071  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:43:00,074  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:43:00,542  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:43:01,158  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:43:19,906  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:43:20,527  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:43:20,530  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:43:21,976  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:43:22,337  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:44:09,362  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:44:10,371  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:44:10,374  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:44:12,337  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:44:12,541  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:44:41,637  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:44:42,183  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:44:42,186  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:44:43,386  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:44:43,709  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:46:08,269  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:46:08,845  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:46:08,848  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:46:09,666  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:46:09,927  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:49:25,562  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:49:26,480  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:49:26,485  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:49:27,390  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:49:27,687  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:54:40,570  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:54:45,019  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:54:45,022  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:54:45,809  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:54:46,056  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:55:43,627  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:55:44,197  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:55:44,201  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:55:45,003  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:55:45,254  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:57:44,870  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:57:45,512  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:57:45,515  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:57:46,252  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:57:46,546  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+02:59:24,321  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+02:59:25,238  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+02:59:25,256  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+02:59:26,068  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+02:59:26,186  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:00:16,239  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:00:17,647  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:00:17,651  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:00:18,232  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:00:18,845  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:00:49,343  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:00:49,644  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:00:49,647  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:00:51,625  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:00:51,884  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:02:59,182  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:02:59,710  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:02:59,713  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:03:00,529  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:03:00,869  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:03:51,294  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:03:51,825  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:03:51,827  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:03:52,473  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:03:52,705  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:06:20,112  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:06:20,839  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:06:20,849  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:06:21,638  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:06:21,947  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:07:55,332  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:07:55,627  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:07:55,632  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:07:56,315  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:07:56,746  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:08:52,006  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:08:52,298  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:08:52,302  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:08:53,527  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:08:53,822  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:10:28,733  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:10:29,303  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:10:29,316  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:10:30,060  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:10:30,319  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:12:42,521  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:12:43,031  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:12:43,034  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:12:43,834  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:12:44,180  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:13:11,633  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:13:12,274  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:13:12,277  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:13:13,470  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:13:13,847  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:21:51,394  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:23:39,759  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:23:40,788  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:23:40,791  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:23:41,500  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:23:41,763  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:25:07,417  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:25:07,976  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:25:07,979  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:25:08,619  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:25:09,317  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:26:40,757  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:26:41,432  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:26:41,434  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:26:42,721  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:26:43,043  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:30:23,436  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:30:23,960  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:30:23,963  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:30:24,809  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:30:24,929  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:31:32,821  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:31:33,772  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:31:33,775  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:31:34,942  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:31:35,010  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:32:24,059  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:32:24,738  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:32:24,741  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:32:25,698  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:32:26,102  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:34:18,448  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:34:18,819  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:34:18,823  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:34:19,529  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:34:19,917  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:36:50,424  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:36:50,982  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:36:50,984  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:36:51,670  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:36:52,184  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:37:47,031  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:37:47,564  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:37:47,572  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:37:48,319  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:37:48,684  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:38:30,593  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:39:23,945  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:39:23,947  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:39:24,571  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:39:24,899  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:42:38,330  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:42:38,897  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:42:38,900  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:42:39,460  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:42:40,061  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:43:02,505  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:43:03,111  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:43:03,117  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:43:03,759  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:43:04,320  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:43:44,331  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:43:45,616  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:43:45,619  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:43:47,683  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:43:47,983  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:44:38,664  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:44:39,469  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:44:39,473  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:44:41,250  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:44:41,613  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:46:02,262  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:46:02,868  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:46:02,872  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:46:04,456  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:46:04,806  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:51:38,902  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:51:39,482  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:51:39,492  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:51:40,812  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:53:07,918  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:53:08,957  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:53:08,964  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:53:09,722  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:53:09,958  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:53:50,045  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:53:50,678  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:53:50,685  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:53:51,490  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:53:51,929  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+03:54:15,286  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+03:54:15,830  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+03:54:15,833  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+03:54:16,609  INFO LWJGL Application SaveScreen:selectNextSlot:94 - Выбор следующего слота
+03:54:16,928  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
+00:36:16,099  INFO LWJGL Application StartScreen:<init>:31 - Запуск начального экрана
+00:36:21,539  INFO LWJGL Application StartScreen:handleInput:61 - Переход к экрану сохранения
+00:36:21,679  INFO LWJGL Application SaveScreen:<init>:47 - Запуск экрана сохранения
+00:36:30,862  INFO LWJGL Application PlayScreen:<init>:64 - Запуск игры
